@@ -23,3 +23,5 @@ Assistant: Sotaeko
 
 ![Intro](/docs/jara.png)
 
+![Intro](/docs/equipment.png)
+
