@@ -11,10 +11,11 @@ We will be translating as close as possible as we can, but as well as avoiding c
 that ended up in the switch localized version. So it will be as plain and direct as can be or as close as we 
 seem fit.
 
-### Version: 3.2
+## Version: 3.2
 
 ### Installation:
 Apply xdelta patch Snack World 3DS - Game to archive_a.fa Main Games files.
+
 Apply xdelta patch Snack World 3DS - Update to archive_a.fa to the 3.2 update files.
 
 
