@@ -4,19 +4,28 @@
 
 ### Description:
 We are not Japanese or Translators, but we decided to pick this up as a side project due
-to a huge amount of requests. This is our first 3ds translation attempt and we will do as we can.
-I know the switch version is localized but alot of localization sounded stale or wrong. So The
-translation we do, is to make it as obvious and straight forward as possible.
+to a huge amount of requests. This will be an ONLY UI translation and we will not translate the story.
 
-Compatible with Version 3.2
+This is our first 3DS translation attempt and we will do as we can.
+We will be translating as close as possible as we can, but as well as avoiding confusing translations
+that ended up in the switch localized version. So it will be as plain and direct as can be or as close as we 
+seem fit.
+
+### Version: 3.2
 
 ### Installation:
-Apply xdelta patch to archive_a.fa game and update 3.2
+Apply xdelta patch Snack World 3DS - Game to archive_a.fa Main Games files.
+Apply xdelta patch Snack World 3DS - Update to archive_a.fa to the 3.2 update files.
+
+
+Both patches need to be applied due to the .fa formated files.
 
 ### Modders
 Author: Omnija
+
 Assistant: Sotaeko
-Supporter: pk11
+
+Translating Assist: pk11
 
 ## Screenshots
 
