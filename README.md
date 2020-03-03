@@ -14,12 +14,17 @@ seem fit.
 ## Version: 3.2
 
 ### Installation:
+Extract both Main Game Cia and Update 3.2 Cia then navigate to romfs
+
 Apply xdelta patch Snack World 3DS - Game to archive_a.fa Main Games files.
 
 Apply xdelta patch Snack World 3DS - Update to archive_a.fa to the 3.2 update files.
 
+Repack both Cia and install both cias.
 
-Both patches need to be applied due to the .fa formated files.
+Both patches need to be applied due to the .fa formated files, not all files in the main .fa are
+in the updates .fa. So depending on updates, assure that before installing the main cia to create a backup
+as it will delete your save file. Applying the updates cia will not delete your save file.
 
 ### Modders
 Author: Omnija
@@ -30,13 +35,9 @@ Translating Assist: pk11
 
 ## Screenshots
 
-![Intro](/docs/save.png)
+![Intro](/docs/save.png) ![Intro](/docs/bag.png)
 
-![Intro](/docs/bag.png)
+![Intro](/docs/jara.png) ![Intro](/docs/equipment.png)
 
-![Intro](/docs/jara.png)
-
-![Intro](/docs/equipment.png)
-
-![Intro](/docs/snacks.png)
+![Intro](/docs/snacks.png) ![Intro](/docs/home.png)
 
