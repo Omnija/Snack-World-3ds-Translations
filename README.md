@@ -1,5 +1,5 @@
 # Snack World 3DS
-## Do not redistribute with out our credit or permission
+## **DO NOT** Redistribute **WITHOUT** our **Credit** or **Permission**
 
 ![Intro](/docs/intro.png)
 
