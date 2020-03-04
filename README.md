@@ -1,4 +1,5 @@
 # Snack World 3DS
+## Do not redistribute with out our credit or permission
 
 ![Intro](/docs/intro.png)
 
