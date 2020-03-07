@@ -4,13 +4,11 @@
 ![Intro](/docs/intro.png)
 
 ### Description:
-We are not Japanese or Translators, but we decided to pick this up as a side project due
-to a huge amount of requests. This will be an ONLY UI translation and we will not translate the story.
+We are not Japanese or translators, but we decided to pick this up as a side project due to a huge amount of requests.
+This will ONLY be a UI translation and we will not translate the story.
 
-This is our first 3DS translation attempt and we will do as we can.
-We will be translating as close as possible as we can, but as well as avoiding confusing translations
-that ended up in the switch localized version. So it will be as plain and direct as can be or as close as we 
-seem fit.
+This is our first translation attempt and we will do the best we can. We will not be using the localization from the Switch version.
+If you have any questions feel free to contact me.
 
 ## Version: 3.2
 
@@ -31,9 +29,9 @@ as it will delete your save file. Applying the updates cia will not delete your 
 If you are a translator and feel the need to either help and lend a hand on some of the corrections, we are all ears.
 
 ### Modders:
-Author: Omnija
+Author & Artist: Omnija
 
-Assistant: Sotaeko
+Assistant & Text Translator: Sotaeko
 
 Translating Assist: pk11
 
