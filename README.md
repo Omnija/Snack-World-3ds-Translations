@@ -41,5 +41,7 @@ Translating Assist: pk11
 
 ![Intro](/docs/jara.png) ![Intro](/docs/equipment.png)
 
+![Intro](/docs/skills.png)	![Intro](/docs/boons.png)
+
 ![Intro](/docs/snacks.png) ![Intro](/docs/home.png)
 
