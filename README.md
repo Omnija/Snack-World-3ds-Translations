@@ -33,8 +33,6 @@ Author & Artist: Omnija
 
 Assistant & Text Translator: Sotaeko
 
-Translating Assist: pk11
-
 ## Screenshots
 
 ![Intro](/docs/save.png) ![Intro](/docs/bag.png)
@@ -44,4 +42,6 @@ Translating Assist: pk11
 ![Intro](/docs/skills.png)	![Intro](/docs/boons.png)
 
 ![Intro](/docs/snacks.png) ![Intro](/docs/home.png)
+
+![Intro](/docs/fp_menu.png) ![Intro](/docs/quests.png)
 
