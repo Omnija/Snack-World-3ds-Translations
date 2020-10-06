@@ -40,5 +40,7 @@ Assistant & Text Translator: Sotaeko
 
 ![Intro](/docs/snacks.png) ![Intro](/docs/home.png)
 
-![Intro](/docs/fp_menu.png) ![Intro](/docs/quests.png)
+![Intro](/docs/fp_menu.png) ![Intro](/docs/record.png)
+
+![Intro](/docs/quests.png) ![Intro](/docs/quests1.png)
 
