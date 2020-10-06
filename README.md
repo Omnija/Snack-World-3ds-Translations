@@ -25,9 +25,6 @@ Both patches need to be applied due to the .fa formated files, not all files in 
 in the updates .fa. So depending on updates, assure that before installing the main cia to create a backup
 as it will delete your save file. Applying the updates cia will not delete your save file.
 
-### Notes:
-If you are a translator and feel the need to either help and lend a hand on some of the corrections, we are all ears.
-
 ### Modders:
 Author & Artist: Omnija
 
