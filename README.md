@@ -44,5 +44,5 @@ Assistant & Text Translator: Sotaeko
 
 ![Intro](/docs/quests.png) ![Intro](/docs/quests1.png)
 
-![Intro](/docs/items.png)
+![Intro](/docs/item.png)
 
