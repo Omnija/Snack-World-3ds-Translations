@@ -5,10 +5,10 @@
 
 ### Description:
 We are not Japanese or translators, but we decided to pick this up as a side project due to a huge amount of requests.
-This will ONLY be a UI translation and we will not translate the story.
+This is not a UI only translation anymore, it has become a more then UI translation.
 
-This is our first translation attempt and we will do the best we can. We will not be using the localization from the Switch version.
-If you have any questions feel free to contact me.
+This is our first translation attempt and we will do the best we can.
+If you have any questions feel free to contact us.
 
 ## Version: 3.2
 
@@ -26,9 +26,8 @@ in the updates .fa. So depending on updates, assure that before installing the m
 as it will delete your save file. Applying the updates cia will not delete your save file.
 
 ### Modders:
-Author & Artist: Omnija
-
-Assistant & Text Translator: Sotaeko
+Current Team:
+Omnija & Sotaeko
 
 ## Screenshots
 
