@@ -1,5 +1,5 @@
 # Snack World 3DS
-**DO NOT** Redistribute **WITHOUT** our **Credit** or **Permission**
+**DO NOT** Redistribute **WITHOUT** our **Credit** AND **Permission**
 
 ![Intro](/docs/intro.png)
 
@@ -26,8 +26,8 @@ in the updates .fa. So depending on updates, assure that before installing the m
 as it will delete your save file. Applying the updates cia will not delete your save file.
 
 ### Modders:
-Current Team:
-Omnija & Sotaeko
+Omnija -  Translator, Graphic Design, ROM Hacking  
+Sotaeko - Translator, Editor, Community Management
 
 ## Screenshots
 
